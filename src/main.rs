@@ -14,6 +14,7 @@ fn main() {
         return;
     }
 
+
     println!("Enter the haystack");
     let stdin = io::stdin();
     let mut reader = stdin.lock();
